@@ -1,0 +1,256 @@
+@media (max-width: 575px) {
+   
+.data{
+  font-size: 20px !important;
+  margin-top:20px;  
+}
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 22px;
+    }
+
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 16px;
+    }
+    .card-header{
+        border:3px solid black;
+        font-weight: 500;
+    color:white;
+    font-size: 12px !important;
+    }
+    .card-body{
+        border:3px solid black;
+    }
+    .card-text {
+        color:white;
+        margin-top: 3px !important;
+        font-size: 12px !important;
+    }
+   
+    input {
+        margin-top: 20px;
+        width: 50%;
+        font-size: 16px;
+    }
+}
+
+@media (min-width: 576px) {
+   
+.data{
+  font-size: 20px !important;
+  margin-top:20px;  
+}
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 24px;
+    }
+
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 18px;
+    }
+    .card-header{
+        border:3px solid black;
+        font-weight: 500;
+    color:white;
+    font-size: 14px !important;
+    }
+    .card-body{
+        border:3px solid black;
+    }
+    .card-text {
+        color:white;
+        margin-top: 3px !important;
+        font-size: 14px !important;
+    }
+   
+    input {
+        margin-top: 20px;
+        width: 50%;
+        font-size: 18px;
+    }
+}
+
+
+@media (min-width: 768px) {
+   
+.data{
+  font-size: 20px !important;
+  margin-top:20px;  
+}
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 26px;
+    }
+
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 20px !important;
+    }
+    .card-header{
+        border:3px solid black;
+        font-weight: 500;
+    color:white;
+    font-size: 16px !important;
+    }
+    .card-body{
+        border:3px solid black;
+    }
+    .card-text {
+        color:white;
+        margin-top: 3px !important;
+        font-size: 16px !important;
+        
+    }
+   
+    input {
+        margin-top: 20px;
+        width: 40%;
+        font-size: 20px !important;
+    }
+}
+
+
+@media (min-width: 992px) {
+   
+.data{
+  font-size: 20px !important;
+  margin-top:20px;  
+}
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 28px;
+    }
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 22px;
+    }
+    .card-header{
+        border:3px solid black;
+        font-weight: 500;
+    color:white;
+    font-size: 18px !important;
+    }
+    .card-body{
+        border:3px solid black;
+    }
+    .card-text {
+        color:white;
+        margin-top: 3px !important;
+        font-size: 18px !important;
+    }
+   
+    input {
+        margin-top: 20px;
+        width: 35%;
+        font-size: 22px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+   
+.data{
+  font-size: 20px !important;
+  margin-top:20px;  
+}
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 30px;
+    }
+
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font-size: 24px;
+    }
+    .card-header{
+        border:3px solid black;
+        font-weight: 500;
+    color:white;
+    font-size: 20px !important;
+    }
+    .card-body{
+        border:3px solid black;
+    }
+    .card-text {
+        color:white;
+        margin-top: 3px !important;
+        font-size: 20px !important;
+    }
+   
+    input {
+        margin-top: 20px;
+        width: 35%;
+        font-size: 24px;
+    }
+}
+
+
+@media (min-width: 1400px) {
+   
+.data{
+  font-size: 20px !important;
+  margin-top:20px;  
+}
+    h1 {
+        text-transform: uppercase;
+        margin-top: 50px;
+        font-size: 32px;
+    }
+
+
+    .btn {
+        width: 20% !important;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: bold !important;
+        font: size 26px;
+    }
+    .card-header{
+        border:3px solid black;
+        font-weight: 500;
+    color:white;
+    font: size 22px !important
+    }
+    .card-body{
+        border:3px solid black;
+    }
+    .card-text {
+        color:white;
+        margin-top: 3px !important;
+        font: size 22px !important
+    }
+   
+    input {
+        margin-top: 20px;
+        width: 30%;
+        font: size 26px
+    }
+
+}
